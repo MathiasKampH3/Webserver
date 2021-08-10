@@ -1,0 +1,10 @@
+C:\RiderProjects\Webserver\bin\Debug\Webserver.exe.config
+C:\RiderProjects\Webserver\bin\Debug\Webserver.exe
+C:\RiderProjects\Webserver\bin\Debug\Webserver.pdb
+C:\RiderProjects\Webserver\obj\Debug\Webserver.csproj.AssemblyReference.cache
+C:\RiderProjects\Webserver\obj\Debug\Webserver.Properties.Resources.resources
+C:\RiderProjects\Webserver\obj\Debug\Webserver.csproj.GenerateResource.cache
+C:\RiderProjects\Webserver\obj\Debug\Webserver.csproj.CoreCompileInputs.cache
+C:\RiderProjects\Webserver\obj\Debug\Webserver.exe
+C:\RiderProjects\Webserver\obj\Debug\Webserver.pdb
+C:\RiderProjects\Webserver\obj\Debug\Webserver.Webserver.resources
